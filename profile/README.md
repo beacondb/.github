@@ -1,1 +1,3 @@
-Contribute on Codeberg: [https://codeberg.org/beacondb](https://codeberg.org/beacondb)
+# beaconDB mirrors
+
+These repositories are all read-only mirrors. Please [contribute on Codeberg](https://codeberg.org/beacondb).
